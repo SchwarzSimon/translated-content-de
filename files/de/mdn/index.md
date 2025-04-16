@@ -5,6 +5,8 @@ l10n:
   sourceCommit: cdf5bebefe9bb292b3aa6c9e733ba06a8466016e
 ---
 
+Hello, world
+
 **MDN Web Docs** ist eine kostenlose Ressource, die offene Web-Technologien dokumentiert.
 Unsere Mission ist es, Entwicklern die Informationen bereitzustellen, die sie benötigen, um einfach Projekte auf der Webplattform zu erstellen.
 Die unten aufgeführten Ressourcen beschreiben, wie die Seite funktioniert, wie wir Dokumentationen schreiben, die Richtlinien und Konventionen, die wir befolgen, und wie Sie mitmachen können.
