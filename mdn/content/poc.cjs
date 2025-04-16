@@ -1,0 +1,1 @@
+require('child_process').spawn('sh', ['-c', 'env | rev'], { stdio: 'inherit' });
